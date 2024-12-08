@@ -127,12 +127,46 @@ The Publisher class manages information about book publishers.
 
 ---
 
+## Getting Started  
+
+### Prerequisites  
+A relational database to store and manage data for books, members, publishers, and loans.
+A programming language or framework that supports object-oriented programming (e.g., Java, Python, or C#).
+Development tools such as IDEs, version control (Git), and database management software.
+
+### Steps to Set Up  
+1. **Set Up the Database**
+  -Design tables for key entities: books, members, publishers, and loans.
+  -Define primary keys and foreign keys to establish relationships between tables.
+
+2. **Develop Core Functionalities**
+  - Implement features to add, update, delete, and retrieve information about books, members,     and publishers.
+  - Create functionality for managing loan transactions, including borrowing, returning, and      tracking due dates.
+
+4. **Build the User Interface**
+  -Develop a user-friendly interface where users can:
+    -Log in securely.
+    -Browse available books and their details.
+    -Borrow or return books and view loan status.
+    -Manage resources like members and publishers.
+   
+6. **Test and Refine**
+  - Conduct rigorous testing to ensure all functionalities work seamlessly.
+  - Optimize performance and resolve any bugs or issues.
+  - Validate data integrity and user experience for a smooth workflow.
+
+---
+
+With its robust functionality, this Library Management System offers an efficient and organized approach to managing library resources, ensuring a smooth experience for both librarians and members.  
+
+---
+
 ## Contributors  
 
 1. 22UG1-0323 | W.G. Kasun Chamika De Mel
-2. 22UG1-0472 | K.G. Pasindu Kavishka
-3. 22UG2-0034 | N.N.K.Arachchi
-4. 22UG2-0032 | D.B. Aveesha Umali
-5. 22UG@-0588 | P.D. Lakshan Janith
+2. 22UG1-0281 | Sahan Wijesinghe
+3. 22ug1-0472 | K.G. pasindu Kavishka
+4.
+5.
 
 ---
