@@ -127,32 +127,6 @@ The Publisher class manages information about book publishers.
 
 ---
 
-## Getting Started  
-
-### Prerequisites  
-- A backend system to support the implementation of these entities (e.g., a relational database).  
-- Programming languages or frameworks that support object-oriented structures (e.g., Java, Python, or C#).  
-
-### Steps to Set Up  
-1. **Set Up the Database**  
-   - Organize tables for books, members, publishers, and loans.  
-   - Establish relationships between the tables as per the class diagram.  
-
-2. **Implement Functionalities**  
-   - Develop features to manage books, members, loans, and publishers.  
-
-3. **Design the Interface**  
-   - Create an application interface where users can log in, view books, borrow or return items, and manage resources.  
-
-4. **Test and Optimize**  
-   - Test the system thoroughly to ensure all features, including publisher management and loan tracking, work as expected.  
-
----
-
-With its robust functionality, this Library Management System offers an efficient and organized approach to managing library resources, ensuring a smooth experience for both librarians and members.  
-
----
-
 ## Contributors  
 
 1. 22UG1-0323 | W.G. Kasun Chamika De Mel
